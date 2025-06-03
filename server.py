@@ -2,6 +2,10 @@ import os
 import requests
 from mcp.server.fastmcp import FastMCP
 from typing import Dict, Any
+from dotenv import load_dotenv
+
+# Load environment variables from .env file
+load_dotenv()
 
 # FileMaker configuration from environment variables
 FM_USERNAME = os.getenv('FM_USERNAME')
