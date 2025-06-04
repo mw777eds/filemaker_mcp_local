@@ -8,7 +8,7 @@ This project implements a Model Context Protocol (MCP) server that dynamically e
 
     ```bash
     git clone <repository_url>
-    cd mcp-server-demo
+    cd filemaker_mcp_local
     ```
 
 2.  **Create a virtual environment:**
