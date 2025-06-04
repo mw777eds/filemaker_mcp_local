@@ -7,7 +7,7 @@ This project implements a Model Context Protocol (MCP) server that dynamically e
 1.  **Clone the repository:**
 
     ```bash
-    git clone <repository_url>
+    git clone https://github.com/mw777eds/filemaker_mcp_local/
     cd filemaker_mcp_local
     ```
 
