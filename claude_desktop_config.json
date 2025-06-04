@@ -1,0 +1,13 @@
+{
+  "globalShortcut": "Shift+Ctrl+Space",
+  "mcpServers": {
+    "filemaker-mcp": {
+      "command": "/Users/michaelwallace/Documents/python-apps/mcp-server-demo/.venv/bin/python3",
+      "args": [
+        "/Users/michaelwallace/Documents/python-apps/mcp-server-demo/gradio_mcp_server.py"
+      ],
+      "cwd": "/Users/michaelwallace/Documents/python-apps/mcp-server-demo",
+      "transport": "stdio"
+    }
+  }
+}
